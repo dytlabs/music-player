@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="space8">8dp</dimen>
+    <dimen name="space16">16dp</dimen>
+    <dimen name="space24">24dp</dimen>
+    <dimen name="pager_margin">-30dp</dimen>
+    <dimen name="overlap_pager_margin">-60dp</dimen>
+</resources>
